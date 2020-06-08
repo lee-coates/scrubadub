@@ -1,0 +1,23 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+textblob = "==0.15.3"
+argcomplete = "*"
+phonenumbers = "*"
+pep8 = "*"
+coveralls = "*"
+nose = "*"
+sphinx-rtd-theme = "*"
+ipython = "==5.4"
+ipdb = "==0.10.2"
+PyYAML = "*"
+Sphinx = "*"
+nltk = "*"
+
+[requires]
+python_version = "3.6"
